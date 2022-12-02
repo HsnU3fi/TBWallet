@@ -1,0 +1,23 @@
+{
+    "name": "tabrizli",
+    "short_name": "tabrizli",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter application.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/icon-1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-2.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
